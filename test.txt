@@ -9,3 +9,4 @@
 develop→featureでコードの開発→コードの変更をdevelopにマージ→releaseでmasterにマージ（この時にプルリク）→承認されたら終了
 ・ムズイ
 ・プルリクはfeatureでだすぞ
+・そろそろいけべ
