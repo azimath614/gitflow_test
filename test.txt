@@ -1,9 +1,9 @@
 ・featureブランチを作成する
 ・変更をコミットして，featureブランチを
 終了する
-<<<<<<< HEAD
-・developブランチに変更が反映される
-・releaseブランチを作成し，masterブランチに変更を反映させる．（マージ）
-=======
 ・ムズイ
->>>>>>> release/v1.1
+・一人でやるときはgitflowはやる必要ない
+・masterでコミットプッシュで良い
+・複数人の時はgitflowは確実（慣れるまできついけど）
+・流れ
+develop→featureでコードの開発→コードの変更をdevelopにマージ→releaseでmasterにマージ（この時にプルリクかな？）→承認されたら終了
