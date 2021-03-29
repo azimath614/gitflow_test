@@ -6,4 +6,4 @@
 ・masterでコミットプッシュで良い
 ・複数人の時はgitflowは確実（慣れるまできついけど）
 ・流れ
-develop→featureでコードの開発→コードの変更をdevelopにマージ→releaseでmasterにマージ（この時にプルリクかな？）→承認されたら終了
+develop→featureでコードの開発→コードの変更をdevelopにマージ→releaseでmasterにマージ（この時にプルリク）→承認されたら終了
