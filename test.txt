@@ -6,9 +6,11 @@
 ・masterでコミットプッシュで良い
 ・複数人の時はgitflowは確実（慣れるまできついけど）
 ・流れ
-develop→featureでコードの開発→コードの変更をdevelopにマージ→releaseでmasterにマージ（この時にプルリク）→承認されたら終了
+develop→featureでコードの開発→ブランチ右クリックでプルリク→
+featureの終了でコードの変更をdevelopにマージ→releaseでmasterにマージ→masterでプッシュ，developとmasterにチェック（ここ重要）
 ・ムズイ
 ・プルリクはfeatureでだすぞ
 ・そろそろいけべ
 ・アルティメットラスト
 ・ウルトラアルティメットラスト
+・ウルトラアルティメットファイナルラスト
