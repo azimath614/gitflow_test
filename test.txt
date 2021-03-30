@@ -17,3 +17,4 @@ featureの終了でコードの変更をdevelopにマージ→releaseでmaster�
 ・3月30日です
 ・いくぜついてこい
 ・あ
+・ｇひおあｇはｒぴ
