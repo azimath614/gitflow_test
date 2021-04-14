@@ -19,3 +19,4 @@ featureの終了でコードの変更をdevelopにマージ→releaseでmaster�
 ・あ
 ・ｇひおあｇはｒぴ
 ・developブランチに移動→gitflowから新規フィーチャーを開始→変更する→コミット→プッシュ→（プルリク）→developに戻ってプッシュ→新規リリースを開始→完了→masterブランチに移動→プッシュ（developとmasterの両方を選択する）
+・0414
